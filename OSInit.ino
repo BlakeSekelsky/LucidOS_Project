@@ -1,13 +1,10 @@
 /*
-Lucid OS - Developed by Blake Sekelsky
+Author: Blake Sekelsky
+Build Date: February 23, 2016
+Version: 0.1 BETA
 
-//Nightly Builds At:
-GitHub - https://github.com/TheCodingLucid/LucidOS
-//Video Updates At:
-Youtube - http://www.youtube.com/user/LucidSoftwareStudios
-//Blog Posts At:
-Twitter - https://twitter.com/LucidOS_Project
-*/ 
+OSInit.ino - Initiate startup sequence and start OS.
+*/
 
 #include <LucidLogo.h>
 #include <fontALL.h>
