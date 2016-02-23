@@ -1,4 +1,4 @@
-#include "lucidlogo.h"
+#include "initSplash.h"
 #include "arduino.h"
 #include <TVout.h>
 
